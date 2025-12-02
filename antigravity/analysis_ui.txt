@@ -1,0 +1,6 @@
+Analyzing antigravity...                                        
+
+warning - Unused import: '../../../core/theme/app_theme.dart' - lib\presentation\common\widgets\animated_counter.dart:2:8 - unused_import
+  error - The method 'getPrimaryColor' isn't defined for the type 'AppTheme' - lib\presentation\settings\settings_screen.dart:347:28 - undefined_method
+  error - The method 'getThemeName' isn't defined for the type 'AppTheme' - lib\presentation\settings\settings_screen.dart:382:30 - undefined_method
+

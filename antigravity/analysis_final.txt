@@ -1,0 +1,12 @@
+Analyzing antigravity...                                        
+
+   info - Use 'const' with the constructor to improve performance - lib\core\theme\app_theme.dart:176:20 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\auth\login_screen.dart:84:19 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\auth\login_screen.dart:227:31 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\auth\login_screen.dart:227:47 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\auth\login_screen.dart:237:31 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\auth\login_screen.dart:237:47 - prefer_const_constructors
+   info - Use 'const' for final variables initialized to a constant value - lib\presentation\common\widgets\animated_background.dart:136:5 - prefer_const_declarations
+   info - Local variables should be final - lib\presentation\common\widgets\custom_card.dart:34:5 - prefer_final_locals
+   info - Use 'const' with the constructor to improve performance - lib\presentation\home\tabs\analytics_tab.dart:283:12 - prefer_const_constructors
+

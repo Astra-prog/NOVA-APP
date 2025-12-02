@@ -1,0 +1,7 @@
+Analyzing antigravity...                                        
+
+   info - 'FirebaseAuthRef' is deprecated and shouldn't be used. Will be removed in 3.0. Use Ref instead - lib\core\providers\providers.dart:12:27 - deprecated_member_use_from_same_package
+   info - 'GoogleSignInRef' is deprecated and shouldn't be used. Will be removed in 3.0. Use Ref instead - lib\core\providers\providers.dart:18:27 - deprecated_member_use_from_same_package
+   info - 'AuthRemoteDataSourceRef' is deprecated and shouldn't be used. Will be removed in 3.0. Use Ref instead - lib\core\providers\providers.dart:24:43 - deprecated_member_use_from_same_package
+   info - 'AuthRepositoryRef' is deprecated and shouldn't be used. Will be removed in 3.0. Use Ref instead - lib\core\providers\providers.dart:33:31 - deprecated_member_use_from_same_package
+

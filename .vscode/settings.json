@@ -1,0 +1,6 @@
+{
+    "dart.projectSearchDepth": 5,
+    "dart.flutterSdkPath": null,
+    "dart.enableSdkFormatter": true,
+    "java.configuration.updateBuildConfiguration": "interactive"
+}

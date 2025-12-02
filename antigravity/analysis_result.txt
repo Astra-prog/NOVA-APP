@@ -1,0 +1,20 @@
+Analyzing antigravity...                                        
+
+  error - Undefined name 'stationRepositoryProvider' - lib\main.dart:13:7 - undefined_identifier
+  error - Undefined name 'regionRepositoryProvider' - lib\main.dart:15:7 - undefined_identifier
+  error - Undefined name 'getRegionSummaryProvider' - lib\presentation\home\home_controller.dart:15:31 - undefined_identifier
+  error - Undefined name 'getStationsProvider' - lib\presentation\map\map_controller.dart:15:31 - undefined_identifier
+  error - Undefined name 'getRegionSummaryProvider' - lib\presentation\regions\region_overview_controller.dart:17:31 - undefined_identifier
+  error - Undefined name 'getStationDetailProvider' - lib\presentation\stations\station_detail_controller.dart:16:31 - undefined_identifier
+  error - Expected to find ';' - lib\presentation\stations\station_detail_controller.dart:20:27 - expected_token
+warning - Dead code - lib\presentation\stations\station_detail_controller.dart:22:3 - dead_code
+  error - Expected an identifier - lib\presentation\stations\station_detail_controller.dart:22:3 - missing_identifier
+  error - Expected to find ')' - lib\presentation\stations\station_detail_controller.dart:22:3 - expected_token
+warning - The value of the local variable 'result' isn't used - lib\presentation\stations\station_detail_controller.dart:22:9 - unused_local_variable
+  error - The name 'result' is already defined - lib\presentation\stations\station_detail_controller.dart:22:9 - duplicate_definition
+  error - Undefined name 'from' - lib\presentation\stations\station_detail_controller.dart:22:57 - undefined_identifier
+  error - Undefined name 'to' - lib\presentation\stations\station_detail_controller.dart:22:63 - undefined_identifier
+  error - Expected to find '}' - lib\presentation\stations\station_detail_controller.dart:28:1 - expected_token
+  error - Undefined name 'getStationsProvider' - lib\presentation\stations\station_list_controller.dart:16:31 - undefined_identifier
+
+16 issues found. (ran in 1.9s)

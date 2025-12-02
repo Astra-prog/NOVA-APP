@@ -1,0 +1,11 @@
+{
+    "folders": [
+        {
+            "path": "antigravity"
+        }
+    ],
+    "settings": {
+        "dart.flutterSdkPath": null,
+        "dart.enableSdkFormatter": true
+    }
+}

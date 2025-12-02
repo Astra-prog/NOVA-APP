@@ -1,0 +1,7 @@
+Analyzing antigravity...                                        
+
+   info - Unnecessary 'const' keyword - lib\core\theme\app_theme.dart:178:16 - unnecessary_const
+   info - Use 'const' with the constructor to improve performance - lib\presentation\auth\login_screen.dart:227:31 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\auth\login_screen.dart:237:31 - prefer_const_constructors
+   info - Unnecessary 'const' keyword - lib\presentation\home\tabs\analytics_tab.dart:286:17 - unnecessary_const
+

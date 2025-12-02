@@ -1,0 +1,72 @@
+name: nova
+description: "Real-time groundwater intelligence and decision-support platform."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  
+  # State Management
+  flutter_riverpod: ^2.4.9
+  riverpod_annotation: ^2.3.3
+  flutter_hooks: ^0.20.4
+  hooks_riverpod: ^2.4.9
+
+  # Navigation
+  go_router: ^13.1.0
+
+  # Networking
+  dio: ^5.4.0
+  
+  # Serialization & Data Class
+  json_annotation: ^4.8.1
+  freezed_annotation: ^2.4.1
+  equatable: ^2.0.5
+
+  # Maps & Charts
+  google_maps_flutter: ^2.5.3
+  fl_chart: ^0.66.0
+
+  # Local Persistence
+  sqflite: ^2.3.0
+  path: ^1.8.3
+  shared_preferences: ^2.2.2
+
+  # Utilities
+  intl: any
+  logger: ^2.0.2
+  uuid: ^4.3.3
+  fpdart: ^1.1.0 # For functional programming types like Either/Option
+
+  # UI
+  cupertino_icons: ^1.0.2
+  flutter_svg: ^2.0.10
+  image_picker: ^1.0.7
+  shimmer: ^3.0.0
+  flutter_staggered_animations: ^1.1.1
+  flutter_animate: ^4.5.0
+  lottie: ^3.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+  build_runner: ^2.4.8
+  json_serializable: ^6.7.1
+  riverpod_generator: ^2.3.9
+  freezed: ^2.4.6
+  mockito: ^5.4.4
+  integration_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  
+  # assets:
+  #   - assets/images/
